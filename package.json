@@ -1,0 +1,23 @@
+{
+  "name": "example-nodejs-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chaining": "nodemon chaining.js",
+    "asyncawait": "nodemon asyncawait.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meroware/example-nodejs-promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meroware/example-nodejs-promises/issues"
+  },
+  "homepage": "https://github.com/meroware/example-nodejs-promises#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
